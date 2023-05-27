@@ -11,7 +11,7 @@ The Tribrid Model is a deep learning model that combines token embeddings, posit
 Dependencies
 To run the code and use the models, the following dependencies need to be installed:
 
-Python (version 3.11.X)
-TensorFlow (version 2.12.X)
-NumPy (version 1.24.X)
-Pandas (version 2.0.X)
+* Python (version 3.11.X)
+* TensorFlow (version 2.12.X)
+* NumPy (version 1.24.X)
+* Pandas (version 2.0.X)
